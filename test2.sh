@@ -13,7 +13,7 @@
 
 #!/bin/ksh
 #******************************************************************************************************************;
-# Program Name : test1.sh                                          Author :John Michael Floralde                 **;
+# Program Name : test2.sh                                          Author :John Michael Floralde                 **;
 # Location     :                                                                         **************************;
 # Description  : Performs space check on specified path/s and sends                      **************************;
 #--------------------------------------------------------------------------------------- **************************;
